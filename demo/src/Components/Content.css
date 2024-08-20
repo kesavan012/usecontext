@@ -1,0 +1,18 @@
+#bodyy{
+    display: flex;
+    width: 100%;
+    margin-top: 0%;
+    justify-content: space-around;
+    gap: 40px;
+    padding: 150px 0px 300px 0px;
+}
+img{
+    width: 150%;
+    border-radius: 30px;
+    margin-left: 20px;
+}
+#para{
+    text-align: left;
+    text-indent: 5px;
+    padding: 0px 40px 0px 40px;
+}
